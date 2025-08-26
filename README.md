@@ -1,73 +1,67 @@
-# Welcome to your Lovable project
+# KidLaw Quest India
 
-## Project info
+**Empowering India’s children to know their rights—one game at a time.**
 
-**URL**: https://lovable.dev/projects/ca8ca7de-39b7-418c-b6ff-60c171d896b3
+KidLaw Quest India is a gamified web platform that teaches children in India about their legal rights through interactive games, quizzes, and fun activities. Our mission is to make legal literacy engaging, accessible, and impactful for the next generation.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+- **Interactive Games & Quizzes:** Learn legal rights in a fun, engaging way.
+- **Kid-Friendly Design:** Simple language and playful UI for children.
+- **Responsive Web App:** Works seamlessly on mobile, tablet, and desktop.
+- **Progress Tracking:** Kids can see their learning journey.
+- **Accessible:** Designed for children of all backgrounds and abilities.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ca8ca7de-39b7-418c-b6ff-60c171d896b3) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Built With
 
-**Use your preferred IDE**
+- **Languages & Frameworks:** React, TypeScript, JavaScript, HTML5, CSS3
+- **Build Tools:** Vite
+- **UI Libraries:** Radix UI, ShadCN, Tailwind CSS
+- **State & Data:** React Hook Form, TanStack React Query, Zod
+- **Visualization:** Recharts
+- **Other:** Embla Carousel, Lucide React, Sonner, Vaul
+- **Dev Tools:** ESLint, Prettier, VS Code, GitHub
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+ **Open in browser:**  
+   Visit `http://192.168.50.179:8080/`
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🏆 Accomplishments
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- Simplified complex legal topics for children.
+- Built a polished MVP in under 24 hours for a hackathon.
+- Received positive feedback from educators and children.
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 📚 What We Learned
 
-**Edit a file directly in GitHub**
+- Translating legal concepts into kid-friendly language.
+- The power of gamification in education.
+- Importance of accessibility and responsive design.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🚧 What's Next
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Expand content to cover more rights and laws.
+- Add multiplayer and community features.
+- Partner with schools and NGOs.
+- Integrate regional languages for wider reach.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🤝 Contributing
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+We welcome contributions! Please open issues or submit pull requests to help us improve KidLaw Quest India.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/ca8ca7de-39b7-418c-b6ff-60c171d896b3) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
